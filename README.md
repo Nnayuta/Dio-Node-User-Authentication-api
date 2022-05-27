@@ -13,5 +13,5 @@ São eles:
 * DELETE /users/:uuid
 
 ### Autenticação
-POST /token
-POST /token/validate
+* POST /token
+* POST /token/validate
